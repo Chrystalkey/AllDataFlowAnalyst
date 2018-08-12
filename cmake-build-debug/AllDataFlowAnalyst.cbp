@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="AllDataFlowAnalyst"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\AnalystExecutable\;CMake Files\developement\;CMake Files\developement\Qt\;CMake Files\developement\Qt\5.11.1\;CMake Files\developement\Qt\5.11.1\mingw53_32\;CMake Files\developement\Qt\5.11.1\mingw53_32\lib\;CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\;CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Core\;CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Sql\;CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Widgets\;CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Gui\;CMake Files\AnalystInputCapture\;CMake Files\AnalystShowtime\;CMake Files\AnalystDatabase\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AnalystExecutable">
+				<Option output="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/bin/AnalystExecutable.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="0"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_SQL_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystExecutable"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystExecutable"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystExecutable/AnalystExecutable_autogen/include"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystInputCapture"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystShowtime"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystDatabase"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtCore"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/./mkspecs/win32-g++"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtSql"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtWidgets"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtGui"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtANGLE"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include-fixed"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/i686-w64-mingw32"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystExecutable/Makefile&quot;  VERBOSE=1 AnalystExecutable"/>
+					<CompileFile command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystExecutable/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystExecutable/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystExecutable/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AnalystExecutable/fast">
+				<Option output="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/bin/AnalystExecutable.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="0"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_SQL_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystExecutable"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystExecutable"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystExecutable/AnalystExecutable_autogen/include"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystInputCapture"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystShowtime"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystDatabase"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtCore"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/./mkspecs/win32-g++"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtSql"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtWidgets"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtGui"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtANGLE"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include-fixed"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/i686-w64-mingw32"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystExecutable/Makefile&quot;  VERBOSE=1 AnalystExecutable/fast"/>
+					<CompileFile command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystExecutable/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystExecutable/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystExecutable/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AnalystExecutable_autogen">
+				<Option working_dir="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystExecutable"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystExecutable/Makefile&quot;  VERBOSE=1 AnalystExecutable_autogen"/>
+					<CompileFile command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystExecutable/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystExecutable/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystExecutable/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AnalystInputCapture">
+				<Option output="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/lib/libAnalystInputCapture.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystInputCapture"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_SQL_LIB"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystInputCapture"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystInputCapture"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystInputCapture/AnalystInputCapture_autogen/include"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystDatabase"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtCore"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/./mkspecs/win32-g++"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtSql"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include-fixed"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/i686-w64-mingw32"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystInputCapture/Makefile&quot;  VERBOSE=1 AnalystInputCapture"/>
+					<CompileFile command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystInputCapture/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystInputCapture/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystInputCapture/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AnalystInputCapture/fast">
+				<Option output="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/lib/libAnalystInputCapture.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystInputCapture"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_SQL_LIB"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystInputCapture"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystInputCapture"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystInputCapture/AnalystInputCapture_autogen/include"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystDatabase"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtCore"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/./mkspecs/win32-g++"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtSql"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include-fixed"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/i686-w64-mingw32"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystInputCapture/Makefile&quot;  VERBOSE=1 AnalystInputCapture/fast"/>
+					<CompileFile command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystInputCapture/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystInputCapture/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystInputCapture/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AnalystInputCapture_autogen">
+				<Option working_dir="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystInputCapture"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystInputCapture/Makefile&quot;  VERBOSE=1 AnalystInputCapture_autogen"/>
+					<CompileFile command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystInputCapture/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystInputCapture/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystInputCapture/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AnalystShowtime">
+				<Option output="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/lib/libAnalystShowtime.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystShowtime"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_SQL_LIB"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystShowtime"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystShowtime"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystShowtime/AnalystShowtime_autogen/include"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystDatabase"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtCore"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/./mkspecs/win32-g++"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtWidgets"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtGui"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtANGLE"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtSql"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include-fixed"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/i686-w64-mingw32"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystShowtime/Makefile&quot;  VERBOSE=1 AnalystShowtime"/>
+					<CompileFile command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystShowtime/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystShowtime/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystShowtime/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AnalystShowtime/fast">
+				<Option output="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/lib/libAnalystShowtime.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystShowtime"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_SQL_LIB"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystShowtime"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystShowtime"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystShowtime/AnalystShowtime_autogen/include"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystDatabase"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtCore"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/./mkspecs/win32-g++"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtWidgets"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtGui"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtANGLE"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtSql"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include-fixed"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/i686-w64-mingw32"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystShowtime/Makefile&quot;  VERBOSE=1 AnalystShowtime/fast"/>
+					<CompileFile command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystShowtime/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystShowtime/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystShowtime/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AnalystShowtime_autogen">
+				<Option working_dir="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystShowtime"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystShowtime/Makefile&quot;  VERBOSE=1 AnalystShowtime_autogen"/>
+					<CompileFile command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystShowtime/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystShowtime/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystShowtime/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AnalystDatabase">
+				<Option output="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/lib/libAnalystDatabase.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystDatabase"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_SQL_LIB"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystDatabase"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystDatabase"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystDatabase/AnalystDatabase_autogen/include"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtCore"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/./mkspecs/win32-g++"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtSql"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include-fixed"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/i686-w64-mingw32"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystDatabase/Makefile&quot;  VERBOSE=1 AnalystDatabase"/>
+					<CompileFile command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystDatabase/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystDatabase/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystDatabase/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AnalystDatabase/fast">
+				<Option output="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/lib/libAnalystDatabase.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystDatabase"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_SQL_LIB"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystDatabase"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystDatabase"/>
+					<Add directory="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystDatabase/AnalystDatabase_autogen/include"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtCore"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/./mkspecs/win32-g++"/>
+					<Add directory="F:/developement/Qt/5.11.1/mingw53_32/include/QtSql"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include-fixed"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/i686-w64-mingw32"/>
+					<Add directory="F:/developement/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystDatabase/Makefile&quot;  VERBOSE=1 AnalystDatabase/fast"/>
+					<CompileFile command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystDatabase/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystDatabase/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystDatabase/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AnalystDatabase_autogen">
+				<Option working_dir="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystDatabase"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystDatabase/Makefile&quot;  VERBOSE=1 AnalystDatabase_autogen"/>
+					<CompileFile command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystDatabase/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystDatabase/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="F:/developement/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystDatabase/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystDatabase/Database.cpp">
+			<Option target="AnalystDatabase"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystDatabase/Database.h">
+			<Option target="AnalystDatabase"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystDatabase/libglobal.cpp">
+			<Option target="AnalystDatabase"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystDatabase/libglobal.h">
+			<Option target="AnalystDatabase"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystDatabase/resource_file.qrc">
+			<Option target="AnalystDatabase"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystExecutable/analyst_global.h">
+			<Option target="AnalystExecutable"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystExecutable/main.cpp">
+			<Option target="AnalystExecutable"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystInputCapture/InputHooks.cpp">
+			<Option target="AnalystInputCapture"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystInputCapture/InputHooks.h">
+			<Option target="AnalystInputCapture"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystShowtime/KeyboardHeatmap.cpp">
+			<Option target="AnalystShowtime"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystShowtime/KeyboardHeatmap.h">
+			<Option target="AnalystShowtime"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystDatabase/AnalystDatabase_autogen/EWIEGA46WW/qrc_resource_file.cpp">
+			<Option target="AnalystDatabase"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystDatabase/AnalystDatabase_autogen/EWIEGA46WW/qrc_resource_file.cpp.rule">
+			<Option target="AnalystDatabase"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystDatabase/AnalystDatabase_autogen/mocs_compilation.cpp">
+			<Option target="AnalystDatabase"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystExecutable/AnalystExecutable_autogen/mocs_compilation.cpp">
+			<Option target="AnalystExecutable"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystInputCapture/AnalystInputCapture_autogen/mocs_compilation.cpp">
+			<Option target="AnalystInputCapture"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/cmake-build-debug/AnalystShowtime/AnalystShowtime_autogen/mocs_compilation.cpp">
+			<Option target="AnalystShowtime"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystExecutable/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\AnalystExecutable\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Sql/Qt5SqlConfig.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Sql/Qt5SqlConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Sql/Qt5Sql_QMYSQLDriverPlugin.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Sql/Qt5Sql_QODBCDriverPlugin.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Sql/Qt5Sql_QPSQLDriverPlugin.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Sql/Qt5Sql_QSQLiteDriverPlugin.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QFlatpakThemePlugin.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/developement/Qt/5.11.1/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\developement\Qt\5.11.1\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystInputCapture/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\AnalystInputCapture\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystShowtime/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\AnalystShowtime\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystDatabase/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\AnalystDatabase\"/>
+		</Unit>
+		<Unit filename="C:/Users/Chrystalkey/Documents/GitHub/AllDataFlowAnalyst/AnalystDatabase/resource_file.qrc">
+			<Option virtualFolder="CMake Files\AnalystDatabase\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
