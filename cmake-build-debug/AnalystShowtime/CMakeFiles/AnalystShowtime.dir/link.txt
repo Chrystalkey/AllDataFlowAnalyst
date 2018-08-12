@@ -1,2 +1,0 @@
-F:\developement\Qt\Tools\mingw530_32\bin\ar.exe qc ..\lib\libAnalystShowtime.a  CMakeFiles/AnalystShowtime.dir/KeyboardHeatmap.cpp.obj CMakeFiles/AnalystShowtime.dir/AnalystShowtime_autogen/mocs_compilation.cpp.obj
-F:\developement\Qt\Tools\mingw530_32\bin\ranlib.exe ..\lib\libAnalystShowtime.a

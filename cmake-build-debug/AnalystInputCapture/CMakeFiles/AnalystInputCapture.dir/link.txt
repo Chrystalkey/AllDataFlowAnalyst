@@ -1,2 +1,0 @@
-F:\developement\Qt\Tools\mingw530_32\bin\ar.exe qc ..\lib\libAnalystInputCapture.a  CMakeFiles/AnalystInputCapture.dir/InputHooks.cpp.obj CMakeFiles/AnalystInputCapture.dir/AnalystInputCapture_autogen/mocs_compilation.cpp.obj
-F:\developement\Qt\Tools\mingw530_32\bin\ranlib.exe ..\lib\libAnalystInputCapture.a

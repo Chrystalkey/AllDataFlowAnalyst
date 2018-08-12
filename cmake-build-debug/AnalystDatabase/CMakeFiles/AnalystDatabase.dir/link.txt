@@ -1,2 +1,0 @@
-F:\developement\Qt\Tools\mingw530_32\bin\ar.exe qc ..\lib\libAnalystDatabase.a  CMakeFiles/AnalystDatabase.dir/Database.cpp.obj CMakeFiles/AnalystDatabase.dir/libglobal.cpp.obj CMakeFiles/AnalystDatabase.dir/AnalystDatabase_autogen/mocs_compilation.cpp.obj CMakeFiles/AnalystDatabase.dir/AnalystDatabase_autogen/EWIEGA46WW/qrc_resource_file.cpp.obj
-F:\developement\Qt\Tools\mingw530_32\bin\ranlib.exe ..\lib\libAnalystDatabase.a
